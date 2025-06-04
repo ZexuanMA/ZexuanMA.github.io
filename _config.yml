@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sihong Wu"
+title                    : "ZexuanMA"
 title_separator          : "-"
-name                     : &name "Sihong Wu"
+name                     : &name "ZexuanMA"
 description              : &description "personal description"
-url                      : "https://tessaaawu.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tessaaawu/tessaaawu.github.io/"
+url                      : "https://ZexuanMA.github.io"
+baseurl                  : 
+repository               : "ZexuanMA/ZexuanMA.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,18 +22,18 @@ repository               : "tessaaawu/tessaaawu.github.io/"
 author:
   # Biographic information
   avatar           : "SquarePhoto.png"
-  name             : "吴思弘 Sihong Wu &#127940;&#127995;&zwj;&#9792;"
-  pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Reasearch Fellow"
-  location         : "Houston, TX"
-  employer         : "University of Houston"
-  uri              : # URL
-  email            : "swu36@central.uh.edu" 
+  name             : "马泽炫 Zexuan MA &#127940;&#127995;&zwj;&#9792;"
+  pronouns         :  
+  bio              : 
+  location         : "China"
+  employer         : "Beijing Normal University"
+  uri              : 
+  email            : "theodorearmand11@gmail.com" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=pt9B3u0AAAAJ&hl=en&oi=ao"
+  googlescholar    :
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-5584-664X"
+  orcid            : "https://orcid.org/0009-0001-4590-9213"
   semantic         : # URL
   researchgate     : # URL
 
@@ -41,7 +41,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # URL "academicpages"
+  github           : "Evanescent-Wave-Dynamics-in-Fiber"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
